@@ -1,6 +1,5 @@
 # Driver Drowsiness Detection
 
-![Driver Drowsiness Detection](/path/to/driver-drowsiness-detection.jpg)
 
 ## Introduction
 
@@ -8,7 +7,7 @@ Driver Drowsiness Detection is a Python-based application that uses computer vis
 
 ## How to Use
 
-1. Clone the repository: `git clone https://github.com/your-username/driver-drowsiness-detection.git`
+1. Clone the repository: `git clone https://github.com/16kush/driver-drowsiness-detection.git`
 2. Install the required dependencies: `pip install opencv-python dlib imutils numpy matplotlib python-vlc`
 3. Download the shape predictor file `shape_predictor_68_face_landmarks.dat` and place it in the `Assets` folder.
 4. Run the script: `python drowsiness_detection.py`
